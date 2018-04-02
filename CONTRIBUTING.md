@@ -8,9 +8,9 @@
 
 
 ## Issues
-If you find a bug in the source code or a mistake in the documentation, you can help by submitting an [issue](https://github.com/CaryLandholt/fatarrow/issues) to the repository.  Even better, you can submit a [Pull Request](#pull-requests) with a fix.
+If you find a bug in the source code or a mistake in the documentation, you can help by submitting an [issue](https://github.com/DedicatedWebStar/fatarrow/issues) to the repository.  Even better, you can submit a [Pull Request](#pull-requests) with a fix.
 
-Before you submit your issue, search the [archive](https://github.com/CaryLandholt/fatarrow/issues).  Maybe your question was already answered.
+Before you submit your issue, search the [archive](https://github.com/DedicatedWebStar/fatarrow/issues).  Maybe your question was already answered.
 
 If your issue appears to be a bug, and hasn't been reported, open a new issue.  Help to maximize the effort spent fixing issues and adding new features, by not reporting duplicate issues.  Providing the following information will increase the chances of your issue being dealt with quickly:
 
@@ -26,7 +26,7 @@ If your issue appears to be a bug, and hasn't been reported, open a new issue.  
 ## Pull Requests
 Before you submit your pull request, consider the following guidelines:
 
-* Search for an open or closed [Pull Request](https://github.com/CaryLandholt/fatarrow/pulls) that relates to your submission.  You don't want to duplicate effort.
+* Search for an open or closed [Pull Request](https://github.com/DedicatedWebStar/fatarrow/pulls) that relates to your submission.  You don't want to duplicate effort.
 * Make your changes in a new git branch
 ```bash
 $ git checkout -b my-fix-branch master

@@ -56,7 +56,7 @@ options = require 'yargs'
 	.example 'npm test', 'Run Karma and Protractor tests during a CI build.'
 	.example 'gulp --injectcss', 'Use Browsersync to inject CSS http://www.browsersync.io/docs/gulp/#gulp-sass-css.'
 	.example 'npm run deploy [-- --target location | s3]', 'Deploy to a target.'
-	.epilog 'If you find an issue, feel free to file it at https://github.com/CaryLandholt/fatarrow/issues'
+	.epilog 'If you find an issue, feel free to file it at https://github.com/DedicatedWebStar/fatarrow/issues'
 	.argv
 
 getSwitchOption = (option) ->
